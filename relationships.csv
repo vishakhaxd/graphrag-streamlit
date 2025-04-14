@@ -1,0 +1,30 @@
+start_entity,relationship,end_entity
+ELMo,developed_by,the Allen Institute for Artificial Intelligence
+ELMo,developed_by,the University of Washington
+ELMo,improves_in,six
+ELMo,applied_to,NLP
+ELMo,USES,2
+3,HAS_NUMBER,two
+NLP,USES,two
+ELMo,RELATED_TO,4
+ELMo,improved_performance_in,5
+ELMo,benchmark_tasks,six
+ELMo,domain,NLP
+ELMo,improves_performance_on,NLP
+ELMo,improves_performance_on,Textual Entailment
+ELMo,improves_performance_on,Semantic Role Labeling
+ELMo,improves_performance_on,Sentiment Analysis
+SQuAD,related_to,SRL
+SNLI,related_to,SRL
+NLP,related_to,9
+WSD,compared_to,CoVe
+NER,related_to,2003
+BERT,developed_by,Google AI Language
+BERT,outperforms_on_tasks_of,NLP
+BERT,NO_RELATION,14
+BERT,outperforms_on,GLUE
+BERT,outperforms_on,the Stanford Question Answering Dataset
+BERT,applied_to,the CoNLL-2003 Named Entity Recognition
+BERT,applied_to,NER
+NLP,related_to,NLP
+LSTM,part_of,NLP

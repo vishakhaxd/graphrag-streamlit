@@ -1,0 +1,24 @@
+# Core app
+streamlit
+python-dotenv
+openai
+
+# LangChain + extensions
+langchain
+langchain-community
+
+# Graph-related
+neo4j
+streamlit-agraph
+
+# spaCy & NLP
+spacy
+spacy-llm
+wasabi
+
+# PDF document loaders
+pypdf
+pdfminer.six
+
+# Others
+tiktoken

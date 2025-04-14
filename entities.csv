@@ -1,0 +1,45 @@
+name,type
+CoVe,LOC
+12,CARDINAL
+Semantic Role Labeling,ORG
+2,CARDINAL
+Sentiment Analysis,ORG
+10,CARDINAL
+BERT,ORG
+NER,ORG
+SRL CoNLL,ORG
+18,CARDINAL
+the University of Washington,ORG
+GLUE,ORG
+the Allen Institute for Artificial Intelligence,ORG
+SQuAD,ORG
+Coreference,PERSON
+NLP,ORG
+8,CARDINAL
+Google AI Language,PRODUCT
+ELMo,ORG
+16,CARDINAL
+LSTM,ORG
+2003,DATE
+13,CARDINAL
+14,CARDINAL
+the CoNLL-2003 Named Entity Recognition,ORG
+WSD,ORG
+2012,DATE
+two,CARDINAL
+7,CARDINAL
+4,CARDINAL
+11,CARDINAL
+15,CARDINAL
+6,CARDINAL
+Textual Entailment,ORG
+9,CARDINAL
+1,CARDINAL
+3,CARDINAL
+the Stanford Question Answering Dataset,ORG
+19,CARDINAL
+SRL,GPE
+SNLI,ORG
+six,CARDINAL
+5,CARDINAL
+17,CARDINAL
